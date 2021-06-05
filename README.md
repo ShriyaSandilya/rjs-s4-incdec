@@ -1,2 +1,2 @@
 # rjs-s4-incdec
-A simple ReactJS app to increment and decrment a number.
+A simple ReactApp to increment and decrment a number.
